@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1669936026 source:d:\anther programs\movies\main.cpp
+	<Movies.h>
+	<iostream>
+
+1669934559 source:d:\anther programs\movies\src\movie.cpp
+	"Movie.h"
+
+1669933899 d:\anther programs\movies\include\movie.h
+	<iostream>
+
+1669933899 source:d:\anther programs\movies\include\movie.h
+	<iostream>
+
+1669931737 source:d:\anther programs\movies\include\movies.h
+	"Movie.h"
+	<vector>
+
+1669934699 source:d:\anther programs\movies\src\movies.cpp
+	"Movies.h"
+
+1669931737 d:\anther programs\movies\include\movies.h
+	"Movie.h"
+	<vector>
+
