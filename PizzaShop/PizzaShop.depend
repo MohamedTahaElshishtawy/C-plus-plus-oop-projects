@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1670779226 source:d:\education\moshrif course\oop\oop projects\pizzashop\main.cpp
+	<iostream>
+	"pizza.h"
+
+1670779113 source:d:\education\moshrif course\oop\oop projects\pizzashop\include\pizza.h
+	<iostream>
+
+1670778916 source:d:\education\moshrif course\oop\oop projects\pizzashop\src\pizza.cpp
+	"pizza.h"
+
+1670779113 d:\education\moshrif course\oop\oop projects\pizzashop\include\pizza.h
+	<iostream>
+
